@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  background-color: powderblue;
+  height: 500px;
+}
+li {
+  text-align: center;
+  background-color: grey;
+  height: 300px;
+  width: 300px;
+}
+a {
+  font-size: 48px;
+}
+.on {
+  background-color: black;
+}
